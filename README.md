@@ -123,7 +123,7 @@ using mot_t      = mot::vec_t;
 ```
 # Links
 ## Other C++ Math Libraries
-- [ctmd][32]https://github.com/uonrobotics/ctmd
+- [ctmd][32]
 - [linalg][28]
 - [glm][35]
 - [ITK][8]
