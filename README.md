@@ -195,7 +195,7 @@ using mot_t      = mot::vec_t;
 [28]: https://github.com/SideShowBoBGOT/linalg-conan
 [30]: https://jacquesheunis.com/post/rotors/
 [31]: https://marctenbosch.com/quaternions/
-[32]: https://github.com/uonrobotic/ctmd/
+[32]: https://github.com/uonrobotics/ctmd/
 [33]: https://github.com/NVIDIA/cutlass/
 [34]: https://github.com/jfalcou/eve/
 [35]: https://github.com/g-truc/glm/
