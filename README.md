@@ -123,7 +123,7 @@ using mot_t      = mot::vec_t;
 ```
 # Links
 ## Other C++ Math Libraries
-- [ctmd][32]
+- [ctmd][32]https://github.com/uonrobotics/ctmd
 - [linalg][28]
 - [glm][35]
 - [ITK][8]
@@ -195,7 +195,7 @@ using mot_t      = mot::vec_t;
 [28]: https://github.com/SideShowBoBGOT/linalg-conan
 [30]: https://jacquesheunis.com/post/rotors/
 [31]: https://marctenbosch.com/quaternions/
-[32]: https://github.com/uomrobotic/ctmd/
+[32]: https://github.com/uonrobotic/ctmd/
 [33]: https://github.com/NVIDIA/cutlass/
 [34]: https://github.com/jfalcou/eve/
 [35]: https://github.com/g-truc/glm/
